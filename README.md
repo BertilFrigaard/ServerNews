@@ -1,0 +1,2 @@
+# ServerNews
+Minecraft plugin
